@@ -1,0 +1,6 @@
+aplikasipenampilgambar.aplikasiPenampilGambar$1
+aplikasipenampilgambar.aplikasiPenampilGambar$2
+aplikasipenampilgambar.aplikasiPenampilGambar$3
+aplikasipenampilgambar.aplikasiPenampilGambar$4
+aplikasipenampilgambar.aplikasiPenampilGambar$5
+aplikasipenampilgambar.aplikasiPenampilGambar
